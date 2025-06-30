@@ -1,4 +1,4 @@
-## Hi, I'm Youssif 👋
+## Hi, I'm Youssif
 
 - Computer Science student at AIU  
 - Currently learning CS50 by Harvard  
