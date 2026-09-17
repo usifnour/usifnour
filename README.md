@@ -10,10 +10,13 @@
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" style="margin-right: 15px;">
 </a>
 
-<a href="mailto:youssef.magdy.mohamed@gmail.com" target="_blank">
+<a href="mailto:youssef.magdy.nour@gmail.com" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" style="margin-right: 15px;">
 </a>
 
 <a href="https://discord.com/users/usifnour" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" width="30">
+
+  <a href="https://x.com/usifnour" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="X" width="30">
 </a>
