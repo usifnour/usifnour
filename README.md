@@ -2,6 +2,7 @@
 
 * Computer Science student at Alamein International University (AIU)
 * Software Engineering student exploring programming and building real-world projects
+* Currently improving my skills in Java, OOP, Web Development, and Software Engineering
 
 ### Contact
 
